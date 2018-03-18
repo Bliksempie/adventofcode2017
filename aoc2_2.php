@@ -86,7 +86,7 @@
                 <h2>Input:</h2>
                 <pre>' . $input . '</pre>
                 <h2>Solution:</h2>'
-                . $grand_total , '
+                . $grand_total . '
             </div>
         </p>
     ';
