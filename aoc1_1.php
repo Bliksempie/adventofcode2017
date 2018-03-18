@@ -8,7 +8,7 @@
 
     // Assignment 1 - Part 1
 
-    echo 'ASSIGNMENT: PART 1:<br><br>';
+    echo 'ASSIGNMENT 1 - PART 1<br><br>';
     echo 'Link: ' . $link . '<br><br>';
     echo 'Solve: The captcha requires you to review a sequence of digits (your puzzle input) and find the sum of all digits that match the next digit in the list. The list is circular, so the digit after the last digit is the first digit in the list.<br><br>';
     echo 'Input: ' . $input . '<br><br>==========<br>';
