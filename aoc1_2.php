@@ -27,7 +27,7 @@
                 <h2>Link:</h2>'
                 . $link . '
                 <h2>Solve:</h2>
-                The spreadsheet consists of rows of apparently-random numbers. To make sure the recovery process is on the right track, they need you to calculate the spreadsheet\'s checksum. For each row, determine the difference between the largest value and the smallest value; the checksum is the sum of all of these differences.
+                Now, instead of considering the next digit, it wants you to consider the digit halfway around the circular list. That is, if your list contains 10 items, only include a digit in your sum if the digit 10/2 = 5 steps forward matches it. Fortunately, your list has an even number of elements.
             </div>
         </p>
         <p>
